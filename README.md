@@ -1,5 +1,5 @@
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -20,12 +20,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Erick's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Aireck2/python-project-blueprint">
+<a href="https://github.com/Aireck2/cra-antd-ts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=cra-antd-ts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/Aireck2/go-project-blueprint">
+<a href="https://github.com/Aireck2/react-ts-intl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=react-ts-intl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
