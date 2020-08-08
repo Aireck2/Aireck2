@@ -2,6 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="30px">
 
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
