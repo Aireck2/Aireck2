@@ -30,7 +30,6 @@ https://img.shields.io/badge/-NextJS-000000.svg?style=flat-square&logo=Vercel&la
 
 ## &#x1f4c8; GitHub Stats
 
-<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&theme=nord&margin-w=25&margin-h=15" alt="willdoescode" /></a> </p>
 
 <a href="https://github.com/Aireck2/Aireck2" target="_blank">
@@ -46,4 +45,4 @@ https://img.shields.io/badge/-NextJS-000000.svg?style=flat-square&logo=Vercel&la
 
 <a href="https://github.com/Aireck2/cra-antd-ts" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=cra-antd-ts&theme=nord" />
-</a> -->
+</a>
