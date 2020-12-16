@@ -26,7 +26,7 @@ https://img.shields.io/badge/-NextJS-000000.svg?style=flat-square&logo=Vercel&la
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aireck2&label=Profile%20views" alt="Aireck2" /> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aireck2&label=Profile%20views" alt="Aireck2" /> </p>
 
 ## &#x1f4c8; GitHub Stats
 
