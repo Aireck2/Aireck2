@@ -28,19 +28,19 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&theme=nord&margin-w=25&margin-h=15" alt="willdoescode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&theme=discord&margin-w=10&margin-h=0&border-color=black&no-frame=true" alt="willdoescode" /></a> </p>
 
 <a href="https://github.com/Aireck2/Aireck2" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=true&hide=css,html&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=true&hide=css,html&theme=discord_old_blurple&bg_color=20232a&hide_border=true" />
 </a>
 <a href="https://github.com/Aireck2/Aireck2" target="_blank" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&theme=nord" alt="Erick's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&theme=discord_old_blurple&bg_color=20232a&hide_border=true" alt="Erick's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Aireck2/react-ts-intl" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=react-ts-intl&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=react-ts-intl&theme=discord_old_blurple&bg_color=20232a&hide_border=true" />
 </a>
 
 <a href="https://github.com/Aireck2/cra-antd-ts" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=cra-antd-ts&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=cra-antd-ts&theme=discord_old_blurple&bg_color=20232a&hide_border=true" />
 </a>
