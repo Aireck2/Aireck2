@@ -1,19 +1,18 @@
 [![Header](https://raw.githubusercontent.com/Aireck2/Aireck2/develop/readme_header.png "Header")](https://github.com/Aireck2)
 
-# Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="30px">
+## &nbsp;Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="30px">
 
 - 🔭 I'm currently working at Equip
-- 🌱   I'm currently learning MongoDB, Nodejs, Docker, AWS.
-- 🥅 Goals: Explore more things about Testing (TDD), Mobile dev,Infrastruture, Golang, Terraform, etc. 
-- ⚡ Fun fact I love go running
+- 🌱 I'm currently learning MongoDB, Nodejs, Docker, AWS.
+- 🥅 Goals: Explore more things about Testing (TDD), Mobile dev,Infrastruture, Golang, Terraform, etc.
+- ⚡ Hobbies: Running
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/erickescriba/"><img alt="Erick Escriba | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/></a>
 
 **Support my work on:**
 
-<!-- [<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPFJREFUeNrsVW0NhDAMZSiYBCRMAg6YhElAAg6QgBQkIIFzMAk7SLa70rT7uB3J/bgmhUBf31u7Lmuav5Wac04fvrmrnd8GYAyD0SnyxcVtycHEVn5ZzeG9f68E0YowsCJNCQTAllHdQsRllCOq/iaYvMtUF3CgAwJ9xYD0gKc7/7XnQwjxADhZMYSv3MDZgmAQGSoEBsR1KW+saRNqz8ht4u4BltvIyABYn7uzuUdAobMgM8nhGVCpBJMrQpCb3JKnlAhBPpZu2syJEOTzpwcHt0t5L29LpogF01JPzoh8lxyNcKhA3XXbqdvIf9aeAgwApQNy3AmH0wEAAAAASUVORK5CYII="/>](https://github.com/sponsors/jahirfiquitiva)
-[<img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%235F7FFF.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>](https://buymeacoff.ee/jahirfiquitiva) -->
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/paypalme/erickescriba?country.x=PE&locale.x=en_US)
 
-## 🔧 Technologies & Tools
+### 🛠 &nbsp;Tech Stack
 
 <p>
   <img alt="Zsh" src="https://img.shields.io/badge/-Shell-2E3440?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -40,10 +39,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&rank=SECRET,SS,S,AAA,AA,A&theme=discord&margin-w=10&margin-h=0&border-color=black&no-frame=true" alt="willdoescode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&rank=SECRET,SS,S,AAA,AA,A&theme=discord&margin-w=10&margin-h=0&border-color=black&no-frame=true" alt="Aireck2" /></a> </p>
 
 <a href="https://github.com/Aireck2/Aireck2" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=true&hide=css,html&theme=discord_old_blurple&bg_color=20232a&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=true&hide=css,html&theme=discord_old_blurple&bg_color=20232a&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/Aireck2/Aireck2" target="_blank" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&theme=discord_old_blurple&bg_color=20232a&hide_border=true" alt="Erick's GitHub Stats" />
