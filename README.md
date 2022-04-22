@@ -37,16 +37,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aireck2&label=Profile%20views" alt="Aireck2" /> </p>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Github Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&rank=SECRET,SS,S,AAA,AA,A&theme=discord&margin-w=10&margin-h=0&border-color=black&no-frame=true" alt="Aireck2" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aireck2&rank=SECRET,SS,S,AAA,AA,A&theme=discord&margin-w=10&margin-h=0&border-color=black&no-frame=true" alt="Aireck2" /></a> </p>
 
-<a href="https://github.com/Aireck2/Aireck2" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=true&hide=css,html&theme=discord_old_blurple&bg_color=20232a&hide_border=true&layout=compact" />
-</a>
 <a href="https://github.com/Aireck2/Aireck2" target="_blank" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&theme=discord_old_blurple&bg_color=20232a&hide_border=true" alt="Erick's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aireck2&show_icons=true&line_height=27&count_private=true&theme=discord_old_blurple&bg_color=20232a&hide_border=true&hide_title=true" alt="My Github Stats"  />
 </a>
+<a href="https://github.com/Aireck2/Aireck2" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aireck2&count_private=false&hide=css,html&theme=discord_old_blurple&bg_color=20232a&hide_border=true&layout=compact&langs_count=8" />
+</a>
+
+<!--Featured Projects -->
 
 <a href="https://github.com/Aireck2/portfolio-ts" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aireck2&repo=portfolio-ts&theme=discord_old_blurple&bg_color=20232a&hide_border=true" />
