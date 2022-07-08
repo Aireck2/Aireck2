@@ -1,12 +1,12 @@
 [![Header](https://raw.githubusercontent.com/Aireck2/Aireck2/develop/readme_header.png "Header")](https://github.com/Aireck2)
 
-## &nbsp;Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="30px">
+## &nbsp;Hello! <img src="https://raw.githubusercontent.com/Aireck2/Aireck2/develop/wave.gif" width="22" style="width: 20px;" />
 
 - 🔭 I'm currently working at Equip
-- 🌱 I'm currently learning MongoDB, Nodejs, Docker, AWS.
-- 🥅 Goals: Explore more things about Testing (TDD), Mobile dev,Infrastruture, Golang, Terraform, etc.
+- 🌱 I'm currently learning Nodejs, MongoDB, Docker, AWS.
+- 🥅 Goals: Explore more things about Testing (TDD), Mobile dev, Infrastruture, Golang, Terraform, etc.
 - ⚡ Hobbies: Running
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/erickescriba/"><img alt="Erick Escriba | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/></a>
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/erickescriba/"><img alt="Erick Escriba | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/></a>
 
 **Support my work on:**
 
@@ -26,6 +26,7 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000.svg?style=flat-square&logo=Vercel&labelColor=000" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="Nodejs" src="https://img.shields.io/badge/-MongoDB-43853d?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
